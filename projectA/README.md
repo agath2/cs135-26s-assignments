@@ -1,4 +1,4 @@
-# Project A Instructions for CS 135 in Fall 2025
+# Project A Instructions for CS 135 in Spring 2026
 
 Instruction webpage:
 <https://www.cs.tufts.edu/cs/135/2026s/projectA.html>
